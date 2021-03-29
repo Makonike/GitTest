@@ -1,0 +1,20 @@
+呀咩咯
+学习了maven的创建web工程
+复习了maven的核心概念：maven目录结构、pom文件、坐标、依赖管理
+
+<!-- https://mvnrepository.com/artifact/javax.servlet.jsp/jsp-api -->
+<dependency>
+    <groupId>javax.servlet.jsp</groupId>
+    <artifactId>jsp-api</artifactId>
+    <version>2.1</version>
+    <scope>provided</scope>
+</dependency>
+
+
+<!-- https://mvnrepository.com/artifact/javax.servlet.jsp/jsp-api -->
+<dependency>
+    <groupId>javax.servlet.jsp</groupId>
+    <artifactId>jsp-api</artifactId>
+    <version>2.1</version>
+    <scope>provided</scope>
+</dependency>
